@@ -2,11 +2,11 @@
 
 📁 data/ (Chứa các file dữ liệu)
 
-raw_jobs.csv: Dữ liệu thô vừa cào về (Phát phụ trách).
+raw_jobs.csv: Dữ liệu thô vừa cào về.
 
-dataset_model_c_ready.csv: Dữ liệu đã làm sạch cơ bản (Phát).
+dataset_model_c_ready.csv: Dữ liệu đã làm sạch cơ bản.
 
-FINAL_MINING_DATASET.csv: Dữ liệu đã qua gom cụm và làm giàu (Dương & Dũng).
+FINAL_MINING_DATASET.csv: Dữ liệu đã qua gom cụm và làm giàu.
 
 📁 notebooks/ (Chứa các file chạy thử nghiệm .ipynb nếu có)
 
