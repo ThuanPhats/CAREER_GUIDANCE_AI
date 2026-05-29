@@ -1,0 +1,23 @@
+# Core ML
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+transformers
+
+# Web UI
+streamlit>=1.35.0
+
+# Visualisation
+plotly>=5.0.0
+
+# Dashboard dependencies
+scipy          # ConvexHull for cluster scatter
+joblib         # model serialisation
+
+# Data mining (optional — used by data_mining/ scripts)
+# mlxtend      # fp-growth (install separately if needed: pip install mlxtend)
+umap-learn      # UMAP dimensionality reduction
