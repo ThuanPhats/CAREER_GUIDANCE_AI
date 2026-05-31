@@ -8,6 +8,15 @@
 
 > **Lưu ý về Dữ liệu (Data/Models):** Đối với các file dữ liệu và mô hình có kích thước lớn, nhóm đã lưu trữ và upload lên **Google Drive**. Bạn cần tải dữ liệu từ Drive về và đặt vào đúng các thư mục tương ứng (`data/`, `models/`, `outputs/`...) trước khi chạy dự án.
 
+[Tải ở đây](https://drive.google.com/drive/folders/1lpOPdInkUL68J7s-byqR7nUYFLLtA7ox?usp=sharing)
+
+## 🚀 Hướng dẫn cài đặt và sử dụng (Installation)
+Dự án đã được tự động hóa quá trình thiết lập. Để khởi chạy ứng dụng, bạn chỉ cần thực hiện 2 bước đơn giản sau:
+
+Đảm bảo bạn đã tải thư mục Data/Models từ Google Drive và đặt vào đúng vị trí theo cấu trúc thư mục bên dưới.
+
+Nhấn đúp chuột để chạy file run.bat tại thư mục gốc. Script này sẽ tự động xử lý các môi trường, cài đặt thư viện cần thiết (từ requirements.txt) và khởi chạy web app.
+
 ## 📁 Cấu trúc thư mục (Root Folder)
 
 📁 data/ (Chứa các file dữ liệu)
